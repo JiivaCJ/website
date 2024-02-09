@@ -16,8 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: jiivacj/1245:latest
-/
-project02
+        image: jiivacj1245/project02:latest
         ports:
         - containerPort: 80
